@@ -1,0 +1,12 @@
+{
+  "name": "0331",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "a": "parcel 01.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.0"
+  }
+}
